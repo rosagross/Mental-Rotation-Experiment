@@ -30,9 +30,8 @@ $("document").ready(function() {
             // Possible deployment methods are:
             // "debug" and "directLink"
             // As well as "MTurk", "MTurkSandbox" and "Prolific"
-            deployMethod: "debug",
-            contact_email: "YOUREMAIL@wherelifeisgreat.you",
-            prolificURL: "https://app.prolific.ac/submissions/complete?cc=SAMPLE1234"
+            deployMethod: "directLink",
+            contact_email: "rgrossmann@uni-osnabrueck.de",
         },
         // Here, you can specify how the progress bar should look like
         progress_bar: {
